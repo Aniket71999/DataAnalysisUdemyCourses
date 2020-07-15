@@ -26,6 +26,10 @@ Project is made on Cloudera in VMware(Centos v6.5). It includes data manipulatio
 5.	Hive
 6.	Pig
 
+License Info : -
+
+This project is licensed under the terms of the Apache License 2.0
+
 References: -
 
 https://www.kaggle.com/andrewmvd/udemy-courses
@@ -45,7 +49,5 @@ https://www.javatpoint.com/hive
 https://www.tutorialspoint.com/sqoop/sqoop_import.htm
 
 https://www.tutorialspoint.com/apache_pig/index.htm
-
-This project is licensed under the terms of the Apache License 2.0
 
 Big data project implemented by Aniket
