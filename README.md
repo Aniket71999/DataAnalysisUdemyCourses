@@ -14,12 +14,11 @@ It gives a course wise perscriptive analysis of the courses taken by students wi
 Purpose: -
 This project is to analyze a data set related to Udemy which will give us the better understanding about the current scenario in which of the department students were taking part with the descriptive analysis. It gives a report on the subject wise courses taken by the students and which field is having highest no students according to no. of reviews and subscribers with the help of raw data and analysis done on the data set.
 
-GOALS: -
-1.	Which courses are available at affordable prices?
-2.	Which courses are the best rated courses?
-3.	What is the highest price for a course?
-4.	Which courses are available at free of cost?
-5.	Group the Udemy courses by each levels?
-6.	How many courses are there in each  level(All,Beginner,Intermediate,Expert)?
-7.	Filter the Udemy Courses acc. to lectures?
-8.	Group the Udemy Courses having same price?
+TOOLS AND WORKING ENVIRONMENT:
+Project is made on Cloudera in VMware(Centos v6.5). It includes data manipulation and libraries such as :
+1.	Linux Commands
+2.	Hadoop
+3.	Sqoop
+4.	MySql
+5.	Hive
+6.	Pig
