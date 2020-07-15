@@ -1,5 +1,6 @@
 # Data-Analysis-on-Udemy-Courses
 Big Data Analysis on Udemy Courses
+This project is licensed under the terms of the Apache License 2.0
 
 About: -
 This project is to analyse a data set related to Udemy Courses of the description and the overall courses 
@@ -43,3 +44,7 @@ https://www.javatpoint.com/hive
 https://www.tutorialspoint.com/sqoop/sqoop_import.htm
 
 https://www.tutorialspoint.com/apache_pig/index.htm
+
+This project is licensed under the terms of the Apache License 2.0
+
+Big data project implemented by Aniket
