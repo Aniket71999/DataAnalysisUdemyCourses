@@ -1,0 +1,117 @@
+sno,id,coursetitle,site,ispaid,price,subscribers,reviews,lectures,level,duration,subject
+1,1070968,Ultimate Investment Banking Course,ultimate-investment-banking-course,TRUE,200,2147,23,51,All Levels,2,Business Finance
+2,1113822,Complete GST Course and Certification - Grow Your CA Practice,goods-and-services-tax,TRUE,75,2792,923,274,All Levels,39,Business Finance
+3,1006314,Financial Modeling for Business Analysts and Consultants,financial-modeling-for-business-analysts-and-consultants,TRUE,45,2174,74,51,Intermediate Level,3,Business Finance
+4,1210588,Beginner to Pro - Financial Analysis in Excel 2017,complete-excel-finance-course-from-beginner-to-pro,TRUE,95,2451,11,36,All Levels,3,Business Finance
+5,1011058,How To Maximize Your Profits Trading Options,how-to-maximize-your-profits-trading-options,TRUE,200,1276,45,26,Intermediate Level,2,Business Finance
+6,192870,Trading Penny Stocks- A Guide for All Levels In 2017,trading-penny-stocks-a-guide-for-all-levels,TRUE,150,9221,138,25,All Levels,3,Business Finance
+7,739964,Investing And Trading For Beginners- Mastering Price Charts,investing-and-trading-for-beginners-mastering-price-charts,TRUE,65,1540,178,26,Beginner Level,1,Business Finance
+8,403100,"Trading Stock Chart Patterns For Immediate, Explosive Gains",trading-chart-patterns-for-immediate-explosive-gains,TRUE,95,2917,148,23,All Levels,3,Business Finance
+9,476268,Options Trading 3 - Advanced Stock Profit and Success Method,day-trading-stock-options-3,TRUE,195,5172,34,38,Expert Level,3,Business Finance
+10,1167710,The Only Investment Strategy You Need For Your Retirement,the-only-investment-strategy-you-need-for-your-retirement,TRUE,200,827,14,15,All Levels,1,Business Finance
+11,592338,Forex Trading Secrets of the Pros With Amazons AWS,trading-with-amazons-aws-servers-trade-secrets-of-the-pros,TRUE,200,4284,93,76,All Levels,5,Business Finance
+12,975046,Trading Options With Money Flow,trading-options-using-money-flow,TRUE,200,1380,42,17,All Levels,1,Business Finance
+13,742602,Financial Management Risk and Return For Securities,risk-and-return-finance,TRUE,30,3607,21,19,All Levels,2,Business Finance
+14,794151,Forex Trading Course- Work Smarter Not Harder Proven Results,the-complete-trading-course,TRUE,195,4061,52,16,All Levels,2,Business Finance
+15,1196544,Python Algo Trading- Sentiment Trading with News,hedge-fund-strategy-trading-with-sentiment-analysis,TRUE,200,294,19,42,All Levels,7,Business Finance
+16,504036,Short Selling- Learn To Sell Stocks Before The Fall,short-selling-learn-to-sell-before-the-fall,TRUE,75,2276,106,19,Intermediate Level,2,Business Finance
+17,719698,Basic Technical Analysis- Learn the structure of the market,learn-basic-technical-analysis,TRUE,20,4919,79,16,Beginner Level,2,Business Finance
+18,564966,The Complete Chart Pattern Trading Course- A Proven Approach,make-money-trading-stocks-from-home,TRUE,200,2666,115,52,All Levels,4,Business Finance
+19,606928,7 Deadly Mistakes of Investing that Will Slash Your Profits,7-deadly-mistakes-of-investing,TRUE,50,5354,24,23,All Levels,2,Business Finance
+20,58977,Financial Statements Made Easy,intro-to-financial-statements-for-entrepreneurs,TRUE,95,8095,249,12,Beginner Level,1,Business Finance
+21,1242604,Winning Forex Trading with Live Forex Trading Examples,forexmacross,TRUE,200,809,3,25,All Levels,2,Business Finance
+22,798740,Forex Traders - Create Your First Trading Robot No Coding,launch-your-amazing-forex-robot-in-30-minutes-no-coding,TRUE,200,2295,84,39,All Levels,4,Business Finance
+23,506568,Create A Business From Home Trading Stocks Today In 2017,work-from-home-buying-penny-stocks,TRUE,75,10149,83,16,All Levels,2,Business Finance
+24,1020760,Introduction to Accounting - Mastering Financial Statements,introduction-to-accounting-mastering-financial-statements,TRUE,50,1916,38,23,Beginner Level,1,Business Finance
+25,859742,The Complete Ethereum Course- Get 01 Ether In Your Wallet,ethereum,TRUE,45,2507,333,40,All Levels,2,Business Finance
+26,383414,Beginner to Pro in PowerPoint- Complete PowerPoint Training,powerpoint-master-class-for-business-and-finance-graduates,TRUE,150,5786,518,50,All Levels,5,Business Finance
+27,353044,Investing 101- The Complete Online Investing Course,online-investing-guide,TRUE,200,5334,373,42,All Levels,5,Business Finance
+28,447362,Create Your Own Hedge Fund- Trade Stocks Like A Fund Manager,create-your-own-hedge-fund-double-your-money-every-year,TRUE,175,4005,237,25,Intermediate Level,2,Business Finance
+29,831066,Learn MQL5- Build an 8-Currency Hedging Robot MetaTrader 5,learn-mql5,TRUE,150,2877,103,81,All Levels,5,Business Finance
+30,1266306,Forex Trading- Your Complete Guide to Get Started Like a Pro,forex-trading-your-complete-guide-to-get-started-like-a-pro,TRUE,140,1026,25,37,Beginner Level,3,Business Finance
+31,1170894,Python Algo Stock Trading- Automate Your Trading,algorithmic-stock-trading-bootcamp-automate-your-trading,TRUE,95,1165,21,41,Beginner Level,3,Business Finance
+32,948974,THE Forex Robot- Incredible ROI Robot Included,the-forex-robot-1000-annual-profit-robot-included,TRUE,200,1843,171,35,All Levels,2,Business Finance
+33,380970,The Complete Bitcoin Course- Get 001 Bitcoin In Your Wallet,bitcoin-for-beginners,TRUE,45,8797,449,80,All Levels,7,Business Finance
+34,1217778,Mastering High Probability Iron Condor Options Trading,mastering-high-probability-iron-condor-options-trading,TRUE,200,1030,11,22,All Levels,2,Business Finance
+35,1246208,The Complete Short Course on Ethereum,ethereum1,TRUE,200,1041,12,28,All Levels,2,Business Finance
+36,434774,Options Trading Stocks- Proven Toolbox For Financial Success,trading-stock-options-ii-simplified-strategies-for-success,TRUE,195,7884,118,68,Intermediate Level,10,Business Finance
+37,308690,Forex Trading A-ZA„¢ - With LIVE Examples of Forex Trading,forex-trading,TRUE,195,16900,2476,52,Beginner Level,6,Business Finance
+38,888716,"Introduction to Finance, Accounting, Modeling and Valuation",introduction-to-accounting-finance-modeling-valuation-by-chris-haroun,TRUE,200,11441,1118,61,All Levels,5,Business Finance
+39,321410,Beginner to Pro in Excel- Financial Modeling and Valuation,beginner-to-pro-in-excel-financial-modeling-and-valuation,TRUE,195,22257,2697,138,All Levels,8,Business Finance
+40,965832,The Complete Investment Banking Course 2017,the-complete-investment-banking-course-2016,TRUE,195,8575,809,110,All Levels,6,Business Finance
+41,1035472,Python for Finance- Investment Fundamentals and Data Analytics,python-for-finance-investment-fundamentals-data-analytics,TRUE,195,3811,278,103,All Levels,7,Business Finance
+42,1154754,Financial Modeling for Startups and Small Businesses,financial-modeling-for-startups-small-businesses,TRUE,195,4991,137,79,Beginner Level,12,Business Finance
+43,627540,Options Trading - How to Win with Weekly Options,work-from-home-setup-your-own-options-trading-business,TRUE,115,7489,1190,25,Intermediate Level,1,Business Finance
+44,301442,Black Algo Trading- Build Your Trading Robot,build-your-trading-robot,TRUE,200,20195,1113,227,All Levels,16,Business Finance
+45,640100,Accounting and Financial Statement Analysis- Complete Training,accounting-fsa-a-solid-foundation-for-a-career-in-finance,TRUE,150,10042,594,43,All Levels,3,Business Finance
+46,1247394,Cryptocurrency Trading- Complete Guide To Trading Altcoins,cryptocurrency-trading,TRUE,95,367,42,35,All Levels,5,Business Finance
+47,260470,Forex Robots- Expect To Earn 175percent PA Forex Robot Included,backtesting,TRUE,200,10603,872,42,All Levels,6,Business Finance
+48,1214702,Three Steps Trading - Live Trading - Real Account,three-steps-trading-live-trading-real-account,TRUE,190,1197,11,46,All Levels,5,Business Finance
+49,848664,Option Trading for Rookies-  Understand Options Completely,complete-course-introduction-to-option-trading,TRUE,150,2893,65,62,All Levels,2,Business Finance
+50,1142570,How I Learned Stock Trading and How You Can Too,best-stock-traders,TRUE,200,1580,12,53,Expert Level,2,Business Finance
+51,325834,Learn to Trade for Profit- Find and Trade Winning Stocks,trading-stocks-successfully-introduction-to-stock-trading,TRUE,95,10605,71,77,All Levels,3,Business Finance
+52,411168,Trading Inside Bars - Master 1 Easy Pattern To Be Successful,trading-inside-bars-find-setups-today-make-money-tomorrow,TRUE,125,2996,200,23,Intermediate Level,2,Business Finance
+53,885974,Four Fundamentals of Financial Planning,four-fundamentals-of-financial-planning,TRUE,30,6219,23,20,All Levels,1,Business Finance
+54,1151092,Options Trading - Calendar Spread Course for Every Trader,options-trading-calendar-spread-course-for-every-trader,TRUE,200,1113,11,17,All Levels,2,Business Finance
+55,358326,Dividend Investing- Build Your Portfolio for a Better Future,dividend-investing,TRUE,60,8314,83,47,Beginner Level,4,Business Finance
+56,153210,Learn Accounting Understand Business,learn-accounting-understand-business,TRUE,200,5572,123,33,Beginner Level,6,Business Finance
+57,834836,How to Consistently Win Trading Stocks in 30 Days or Less,winningstocktrades,TRUE,145,1433,169,15,Intermediate Level,1,Business Finance
+58,1171994,A Beginners Guide to Quantopian Futures API,quantopian-futures,TRUE,20,936,6,11,Intermediate Level,2,Business Finance
+59,1239068,How to Buy Cheap Options - Options Trading Pricing Model,options-black-scholes-model,TRUE,200,658,2,19,All Levels,1,Business Finance
+60,985922,Excel Crash Course- Master Excel for Financial Analysis,excel-crash-course-master-excel-for-financial-analysis,TRUE,105,8121,689,40,All Levels,4,Business Finance
+61,765562,"Comprehensive Guide to Financial Markets, Investing andTrading",financial-markets-a-to-z-for-beginners,TRUE,60,4187,600,79,Beginner Level,9,Business Finance
+62,165964,Stock Trading Ninja- Complete System For Trading Success,stock-trading-ninja-learn-how-to-make-money-trading-stocks,TRUE,155,9445,497,38,All Levels,5,Business Finance
+63,855172,Hedge and Mutual Fund Careers- The Complete Guide,hedge-fund-mutual-fund-careers-the-complete-guide-how-to-pick-stocks,TRUE,200,3255,340,102,All Levels,9,Business Finance
+64,258232,Algorithmic Trading In Forex- Create Your First Forex Robot,learn-mql4,TRUE,185,7941,713,40,All Levels,7,Business Finance
+65,994754,The Power Modeling Bootcamp- Advanced Excel in 10 Days,the-power-modeling-bootcamp-advanced-excel-in-10-days,TRUE,150,1680,158,76,All Levels,6,Business Finance
+66,43319,Options Trading Basics 3-Course Bundle,learn-options-trading-courses,TRUE,180,10100,985,45,Beginner Level,11,Business Finance
+67,408440,How to Win 97percent of Your Options Trades,how-to-win-97-percent-of-your-trades,TRUE,125,5050,461,26,All Levels,2,Business Finance
+68,918688,How I Make Consistent Returns Trading Options,how-i-make-15-per-month-trading-options,TRUE,200,2310,162,26,All Levels,4,Business Finance
+69,308694,"Forex Strategies- Kelly Criterion, Larry Williams and more",money-management,TRUE,185,5528,506,32,All Levels,3,Business Finance
+70,199450,"Elite Trend Trader- Learn To Trade Stocks, Options and Forex",elite-trend-trader-how-to-make-a-fortune-trading-the-trend,TRUE,125,6451,237,28,All Levels,5,Business Finance
+71,401784,Options Trading Introduction- Day Trade Stock Options,how-to-trade-stock-options-level-1-start-day-trading,TRUE,95,12394,218,30,Beginner Level,3,Business Finance
+72,1122792,The Almost Perfect Options Trading Strategy System - Unique,the-almost-perfect-options-trading-strategy-system-unique,TRUE,200,1793,18,15,All Levels,1,Business Finance
+73,709500,Forex Trading -  Learn to Trade Forex Like the Banks,forex-trading-learn-the-same-strategies-used-by-banks,TRUE,20,3223,240,23,All Levels,1,Business Finance
+74,285638,Learn to Trade for Profit-Trading with Japanese Candlesticks,introduction-to-japanese-candlesticks,TRUE,60,16385,273,45,Beginner Level,3,Business Finance
+75,1135126,The Most Powerful Options Spread Trading Front Ratio Spread,the-most-powerful-options-spread-trading-front-ratio-spread,TRUE,200,1487,16,18,All Levels,2,Business Finance
+76,834558,What Finance Job is for You? Explanation of 14 Finance Roles,what-finance-job-is-for-you-explanation-of-14-financial-analyst-roles,TRUE,200,2951,232,60,All Levels,4,Business Finance
+77,551968,The Blueprint for Successful Stock Trading,stock-market-millionaire-blueprint,TRUE,120,2697,331,15,All Levels,1,Business Finance
+78,1005658,Trading for Beginners - Intermediate Level,trading-for-beginners-tier-2,TRUE,150,3979,40,39,Beginner Level,5,Business Finance
+79,746432,Start Trading Stocks Using Technical Analysis,professional-stock-trader,TRUE,25,3190,244,45,All Levels,4,Business Finance
+80,1057242,Learn How to Set Up an Incubator Hedge Fund - Step-by-Step,hedge-fund-startup,TRUE,200,1406,71,54,Expert Level,2,Business Finance
+81,284118,VPS for Forex Trading - Protect Your Forex Robots,forex-vps,TRUE,160,4252,225,24,All Levels,2,Business Finance
+82,302562,Introduction to Accounting- The Language of Business,learnaccountingforfree,TRUE,20,11958,370,134,Beginner Level,12,Business Finance
+83,596598,Basic Excel for Basic Bookkeeping and Accounting,basic-excel-for-basic-bookkeeping,TRUE,95,7743,340,33,Beginner Level,2,Business Finance
+84,860890,Using The Greeks To Understand Options,options-greeks,TRUE,50,2134,55,5,All Levels,1,Business Finance
+85,951050,Trading Options For Consistent Returns- Calendar Spreads,trading-options-for-consistent-returns-calendar-spreads,TRUE,200,1214,69,20,All Levels,2,Business Finance
+86,796450,How to Create Your Personal Budget,personal-budget,TRUE,20,3870,53,10,All Levels,1,Business Finance
+87,502772,The Complete Value Investing Course- A Proven Approach,value-investing-essential-guide-to-picking-stocks,TRUE,200,2146,212,49,All Levels,5,Business Finance
+88,1102462,FOREX Trading with Price Action,forex-trading-system,TRUE,195,484,57,19,Beginner Level,1,Business Finance
+89,1062092,Emini ES Futures - Advanced Non Directional Options Trading,emini-es-futures-advanced-non-directional-options-trading,TRUE,200,1057,15,14,All Levels,2,Business Finance
+90,891484,Forex Trading - Advanced Fundamental Analysis,forex-trading-advanced-fundamental-analysis,TRUE,20,1754,100,49,Intermediate Level,3,Business Finance
+91,1217064,How To Invest With Tiny Capital In Stocks ?,howtoinvest5k,TRUE,20,1239,5,6,Beginner Level,1,Business Finance
+92,382204,Learn How To Successfully Trade Stocks- In 5 Simple Steps,learn-how-to-successfully-trade-stocks-in-5-simple-steps,TRUE,95,2493,276,108,All Levels,10,Business Finance
+93,308696,Forex MetaTrader 4- Master MT4 Like A Pro Forex Trader,metatrader4,TRUE,150,2602,402,57,Beginner Level,5,Business Finance
+94,474928,Intermediate Options trading concepts for Stocks and Options,intermediate-options-trading-concepts-for-stocks-and-options-traders,TRUE,40,2000,30,9,All Levels,1,Business Finance
+95,1148774,Options Trading 101- The Basics,options-trading-101-the-basics,FALSE,0,1514,66,11,Beginner Level,1,Business Finance
+96,959144,Practical Accounts APP Overview,practical-accounts-app-overview,TRUE,20,1361,1,14,Intermediate Level,3,Business Finance
+97,1233350,Bitcoin Profits for Beginners,bitcoin-profits-for-beginners,TRUE,100,61,18,30,Beginner Level,2,Business Finance
+98,572744,Trend Traders Club- How To Find And Trade Fast Moving Trends,how-to-find-and-trade-profitable-fast-moving-trends,TRUE,75,1513,31,60,All Levels,6,Business Finance
+99,724062,Financial Statements Basics,financial-statements-basics,TRUE,20,1374,19,9,Beginner Level,2,Business Finance
+100,474212,High performance Stock Trading using key Options techniques,high-performance-stock-trading-using-options-trading-techniques,TRUE,40,2103,15,6,All Levels,2,Business Finance
+101,771276,Introduction to Financial Statement Analysis,introduction-to-financial-statement-analysis,TRUE,20,1480,25,25,Beginner Level,2,Business Finance
+102,388164,Basics of Economics College Level,economics-for-accounting-and-finance-professionals,TRUE,25,2516,12,20,All Levels,2,Business Finance
+103,133536,Stock Market Investing for Beginners,the-beginners-guide-to-the-stock-market,FALSE,0,50855,2698,15,Beginner Level,2,Business Finance
+104,655300,Accounting for Beginners - Learn Basics in under 1 Hour,accounting-for-beginners-how-to-do-accounting-super-easily,TRUE,50,1971,13,20,Beginner Level,2,Business Finance
+105,949504,Straddle Options Trading - Profit in Any Market Direction,straddle-options-trading-profit-in-any-market-direction,TRUE,200,837,9,19,All Levels,1,Business Finance
+106,265960,Fundamentals of Forex Trading,fundamentals-of-forex-trading,FALSE,0,17160,620,23,All Levels,1,Business Finance
+107,680044,"Binary Options- Trading Strategies, 90percent Accuracy and Signals",learn-trading-binary-options-from-scratch-and-3-strategies,TRUE,195,1723,38,24,Beginner Level,1,Business Finance
+108,923616,Website Investing 101 - Buying and Selling Online Businesses,cash-flow-website-investing-buy-sell-online-businesses-digital-assets,FALSE,0,6811,151,51,All Levels,2,Business Finance
+109,741898,Practical Accounts and Bookkeeping Automated Overview ,practical-accounts-bookkeeping-automated-overview,TRUE,20,2060,17,30,All Levels,5,Business Finance
+110,381330,Live Account - ETF Trading System - Hacking The Stock Market,cracked-wall-street-hacked-the-stock-market-top-secret,TRUE,150,2318,19,16,All Levels,5,Business Finance
+111,545918,Stock Market Leverage- How to Start Trading Options Wisely,stock-market-tips-how-to-successfully-trade-options,TRUE,95,2153,14,13,Beginner Level,2,Business Finance
+112,191854,Stock Market Foundations,how-to-invest-in-the-stock-market-beginners,FALSE,0,19339,794,9,Beginner Level,2,Business Finance
+113,471546,Crash Course on Working Capital Management,crash-course-on-working-capital-management,TRUE,20,3177,8,8,All Levels,1,Business Finance
+114,866584,Advanced Accounting A Complete Study for CA or CMA or CFA or CS,branch-accounts-a-complete-analysis,TRUE,150,1535,16,462,All Levels,62,Business Finance
+115,889824,61percent Profit In 1 Month - Crush Your Forex Trading Paradigm,61-profit-in-1-month-shattering-your-trading-paradigm,TRUE,20,1027,29,25,All Levels,2,Business Finance
+116,1191504,How to create a routine Trading,how-to-create-a-trading-routine,TRUE,25,307,8,5,All Levels,0,Business Finance
