@@ -24,14 +24,21 @@ Project is made on Cloudera in VMware(Centos v6.5). It includes data manipulatio
 6.	Pig
 
 References: -
+
 https://www.kaggle.com/andrewmvd/udemy-courses
 
 https://en.wikipedia.org/wiki/Udemy
 
 https://www.whizlabs.com/blog/big-data-analytics-importance/
+
 https://www.hostinger.in/tutorials/linux-commands
+
 https://www.guru99.com/must-know-linux-commands.html
+
 https://www.tutorialspoint.com/hive/index.htm
+
 https://www.javatpoint.com/hive
+
 https://www.tutorialspoint.com/sqoop/sqoop_import.htm
+
 https://www.tutorialspoint.com/apache_pig/index.htm
