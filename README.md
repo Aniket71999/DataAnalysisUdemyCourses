@@ -15,6 +15,7 @@ Purpose: -
 This project is to analyze a data set related to Udemy which will give us the better understanding about the current scenario in which of the department students were taking part with the descriptive analysis. It gives a report on the subject wise courses taken by the students and which field is having highest no students according to no. of reviews and subscribers with the help of raw data and analysis done on the data set.
 
 Tools and Working Environment: -
+
 Project is made on Cloudera in VMware(Centos v6.5). It includes data manipulation and libraries such as :
 1.	Linux Commands
 2.	Hadoop
