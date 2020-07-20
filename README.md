@@ -1,6 +1,6 @@
 # Data Analysis on Udemy Courses
 
-This project is licensed under the terms of the Apache License 2.0
+This project is licensed under the terms of Apache License 2.0
 
 About: -
 This project is to analyse a data set related to Udemy Courses of the description and the overall courses 
@@ -27,7 +27,7 @@ Project is made on Cloudera in VMware(Centos v6.5). It includes data manipulatio
 
 License Info : -
 
-This project is licensed under the terms of the Apache License 2.0 as https://tinyurl.com/y85g3ct7
+This project is licensed under the terms of Apache License 2.0 as https://tinyurl.com/y85g3ct7
 
 References: -
 
